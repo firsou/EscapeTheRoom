@@ -6,7 +6,7 @@ The game is made using C++ and a Blueprint template for the Door behavior.
 
 # Release
 
-You can download the game [here](https://mega.nz/#!o8hCWIib!e3ODY8TcL0EHg502AOFdoAsLNWGJ_tDLFB4D8rGviyE). Once you've extracted the files from the archive, run EscapeTheRoom.exe
+You can download the game [here](https://mega.nz/#!14JBkDAQ!c3rlLSPRzUFTHyNGN0IR-CVahDgWedt-keFMEXKU67o). Once you've extracted the files from the archive, run EscapeTheRoom.exe
 Alt-F4 to exit.
 
 ## Controls
